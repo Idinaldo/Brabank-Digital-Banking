@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+<div align="center">
     <h1 style="font-weight: bold;">Brabank</h1>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <a href="#about">Sobre</a> • 
     <a href="#tech">Tecnologias</a> • 
     <a href="#tech-details">Detalhes Técnicos</a> • 
@@ -12,7 +12,7 @@
     <a href="#contribute">Contribua</a>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <b>Perfeito para pagamentos, transações, empréstimo e mais!</b>
 </div>
 
@@ -131,8 +131,8 @@ Um obrigado especial para os seguintes colaboradores:
     <td style="text-align: center;">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/122240078?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
-        <sub>
-          <b>Idinaldo Oliveira</b>
+        <sub style="color: #649dfa;">
+          <a href="https://github.com/Idinaldo" style="font-weight: bold;">Idinaldo Oliveira</a>
         </sub>
       </a>
     </td>
