@@ -12,12 +12,14 @@
     <a href="#contribute">Contribua</a>
 </div>
 
-<div align="center">
+<div align="center" style="padding-bottom: 10px">
     <b>Perfeito para pagamentos, transações, empréstimo e mais!</b>
 </div>
 
-![Status do Projeto - Em Desenvolvimento](https://img.shields.io/badge/status-under_development-blue)
-![O Projeto Está Sendo Mantido? - Sim](https://img.shields.io/badge/maintained-yes-green)
+<div align="center">
+    <img src="https://img.shields.io/badge/status-under_development-blue" alt="Status do Projeto - Em Desenvolvimento"/>
+    <img src="https://img.shields.io/badge/maintained-yes-green" alt="O Projeto Está Sendo Mantido? - Sim" />
+</div>
 
 <h2 id="about">Sobre</h2>
 O Brabank é uma fintech motivada a facilitar a vida financeira das pessoas.
