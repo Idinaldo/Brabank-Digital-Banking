@@ -33,9 +33,9 @@ Através da simplificação e facilitação de:
 - E muito mais!
 
 
-<div style="background-color: #6b6868; padding: 5px 20px 20px; color: white;">
-    <p style="font-size: 20px; font-weight: bold; color: white;">IMPORTANTE!</p>
-    Destaca-se que este é um projeto pensado para produção, porém puramente acadêmico.
+<div>
+    <b style="font-size: 20px; color: white;">IMPORTANTE!</b>
+    <p>Destaca-se que este é um projeto pensado para produção, porém puramente acadêmico.</p>
 </div>
 
 <h2 id="tech">Tecnologias</h2>
