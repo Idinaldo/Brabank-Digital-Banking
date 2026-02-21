@@ -1,4 +1,6 @@
-package dev.idinaldo.brabank.auth.ports;
+package dev.idinaldo.brabank.auth.adapters.out;
+
+import dev.idinaldo.brabank.auth.ports.Encryptor;
 
 public class AwsEncryptorImpl implements Encryptor {
 
