@@ -1,6 +1,6 @@
 package dev.idinaldo.brabank.auth.infrastructure.mappers;
 
-import dev.idinaldo.brabank.auth.adapters.in.IdentityRegisterDTO;
+import dev.idinaldo.brabank.auth.adapters.in.dtos.IdentityRegisterDTO;
 import dev.idinaldo.brabank.auth.adapters.out.entities.JpaIdentity;
 import dev.idinaldo.brabank.auth.domain.models.Identity;
 import dev.idinaldo.brabank.auth.domain.valueObjects.NationalId;
